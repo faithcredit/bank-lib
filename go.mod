@@ -1,4 +1,4 @@
-module banking-lib
+module github.com/golangdevm/bank-lib
 
 go 1.20
 
